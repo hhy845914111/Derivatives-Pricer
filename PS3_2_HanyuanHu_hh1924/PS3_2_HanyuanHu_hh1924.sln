@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PS3_2_HanyuanHu_hh1924", "PS3_2_HanyuanHu_hh1924\PS3_2_HanyuanHu_hh1924.vcxproj", "{EA8CB0E3-E91D-467F-93EE-86B76B71AA92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA8CB0E3-E91D-467F-93EE-86B76B71AA92}.Debug|x64.ActiveCfg = Debug|x64
+		{EA8CB0E3-E91D-467F-93EE-86B76B71AA92}.Debug|x64.Build.0 = Debug|x64
+		{EA8CB0E3-E91D-467F-93EE-86B76B71AA92}.Release|x64.ActiveCfg = Release|x64
+		{EA8CB0E3-E91D-467F-93EE-86B76B71AA92}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E3DD87A-8F27-488F-BDF7-2A53F82D6667}
+	EndGlobalSection
+EndGlobal

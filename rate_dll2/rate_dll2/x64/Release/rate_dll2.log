@@ -1,0 +1,23 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  rate_dll2.cpp
+CL : warning : detected 'min' and/or 'max' macros and undefined them;
+CL : warning : you may wish to define NOMINMAX before including any windows header
+c:\users\hoore\documents\workspace\gpu\rate_dll2\rate_dll2\cpu_rand.h(33): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\hoore\documents\workspace\gpu\rate_dll2\rate_dll2\cpu_rand.h(39): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\hoore\documents\workspace\gpu\rate_dll2\rate_dll2\cpu_rand.h(9): warning C4244: '=': conversion from 'const double' to 'eT', possible loss of data
+          with
+          [
+              eT=arma::s32
+          ]
+c:\users\hoore\documents\workspace\gpu\rate_dll2\rate_dll2\cpu_rand.h(10): warning C4244: '=': conversion from 'const double' to 'eT', possible loss of data
+          with
+          [
+              eT=arma::s32
+          ]
+c:\users\hoore\documents\workspace\gpu\rate_dll2\rate_dll2\cpu_rand.h(80): warning C4244: 'initializing': conversion from 'const double' to 'long', possible loss of data
+     Creating library C:\Users\hoore\Documents\workspace\GPU\rate_dll2\x64\Release\rate_dll2.lib and object C:\Users\hoore\Documents\workspace\GPU\rate_dll2\x64\Release\rate_dll2.exp
+  Generating code
+  All 92 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  rate_dll2.vcxproj -> C:\Users\hoore\Documents\workspace\GPU\rate_dll2\x64\Release\rate_dll2.dll

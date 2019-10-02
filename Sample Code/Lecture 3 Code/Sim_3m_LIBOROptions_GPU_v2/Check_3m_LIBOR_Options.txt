@@ -1,0 +1,12 @@
+  Parameters  
+ 5.000000  0.002000  0.000000  0.010000  0.040000  0.003950  0.000000  1.000000  0.000500  0.000000  
+ 250000  1  1 
+  The input maturity nMat, nMat = 1 
+  The initial seeds for MRG32k3a 
+ 238488  6463636  858687  9283747  193847  7827377   
+  3m LIBOR - 3m OIS Futures Rate Spread 0.003237     3m OIS Futures  0.025913  
+  OIS Futures Coeff  0.000004 0.000026 0.023705 0.224691 0.162953 
+  The starting seeds for MRG32k3a 
+ 3866565019.000000  3633680473.000000  882803094.000000  2658844070.000000  220865660.000000  2634060705.000000   
+  Completed simulations.  Now averaging across threads 
+  Compute time 0.597000 

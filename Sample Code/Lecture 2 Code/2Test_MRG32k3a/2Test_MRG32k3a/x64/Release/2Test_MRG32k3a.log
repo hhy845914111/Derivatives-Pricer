@@ -1,0 +1,34 @@
+﻿  SimulationFunctions.cpp
+  stdafx.cpp
+  Test_MRG32k3a.cpp
+c:\users\hoore\documents\workspace\gpu\sample code\lecture 2 code\2test_mrg32k3a\2test_mrg32k3a\test_mrg32k3a.cpp(43): warning C4101: 'seed1': unreferenced local variable
+c:\users\hoore\documents\workspace\gpu\sample code\lecture 2 code\2test_mrg32k3a\2test_mrg32k3a\test_mrg32k3a.cpp(41): warning C4101: 'k': unreferenced local variable
+c:\users\hoore\documents\workspace\gpu\sample code\lecture 2 code\2test_mrg32k3a\2test_mrg32k3a\test_mrg32k3a.cpp(49): warning C4101: 'time3': unreferenced local variable
+c:\users\hoore\documents\workspace\gpu\sample code\lecture 2 code\2test_mrg32k3a\2test_mrg32k3a\test_mrg32k3a.cpp(49): warning C4101: 'time5': unreferenced local variable
+c:\users\hoore\documents\workspace\gpu\sample code\lecture 2 code\2test_mrg32k3a\2test_mrg32k3a\test_mrg32k3a.cpp(49): warning C4101: 'time4': unreferenced local variable
+c:\users\hoore\documents\workspace\gpu\sample code\lecture 2 code\2test_mrg32k3a\2test_mrg32k3a\test_mrg32k3a.cpp(44): warning C4101: 'x3': unreferenced local variable
+c:\users\hoore\documents\workspace\gpu\sample code\lecture 2 code\2test_mrg32k3a\2test_mrg32k3a\test_mrg32k3a.cpp(43): warning C4101: 'lp1': unreferenced local variable
+c:\users\hoore\documents\workspace\gpu\sample code\lecture 2 code\2test_mrg32k3a\2test_mrg32k3a\test_mrg32k3a.cpp(43): warning C4101: 'lp2': unreferenced local variable
+c:\users\hoore\documents\workspace\gpu\sample code\lecture 2 code\2test_mrg32k3a\2test_mrg32k3a\test_mrg32k3a.cpp(43): warning C4101: 'sseed2': unreferenced local variable
+c:\users\hoore\documents\workspace\gpu\sample code\lecture 2 code\2test_mrg32k3a\2test_mrg32k3a\test_mrg32k3a.cpp(40): warning C4101: 'n': unreferenced local variable
+c:\users\hoore\documents\workspace\gpu\sample code\lecture 2 code\2test_mrg32k3a\2test_mrg32k3a\test_mrg32k3a.cpp(44): warning C4101: 'x2': unreferenced local variable
+c:\users\hoore\documents\workspace\gpu\sample code\lecture 2 code\2test_mrg32k3a\2test_mrg32k3a\test_mrg32k3a.cpp(43): warning C4101: 'sseed1': unreferenced local variable
+c:\users\hoore\documents\workspace\gpu\sample code\lecture 2 code\2test_mrg32k3a\2test_mrg32k3a\test_mrg32k3a.cpp(43): warning C4101: 'seed2': unreferenced local variable
+c:\users\hoore\documents\workspace\gpu\sample code\lecture 2 code\2test_mrg32k3a\2test_mrg32k3a\test_mrg32k3a.cpp(296): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\hoore\documents\workspace\gpu\sample code\lecture 2 code\2test_mrg32k3a\2test_mrg32k3a\test_mrg32k3a.cpp(302): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\hoore\documents\workspace\gpu\sample code\lecture 2 code\2test_mrg32k3a\2test_mrg32k3a\test_mrg32k3a.cpp(318): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\hoore\documents\workspace\gpu\sample code\lecture 2 code\2test_mrg32k3a\2test_mrg32k3a\test_mrg32k3a.cpp(324): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\hoore\documents\workspace\gpu\sample code\lecture 2 code\2test_mrg32k3a\2test_mrg32k3a\test_mrg32k3a.cpp(583): warning C4244: '=': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\hoore\documents\workspace\gpu\sample code\lecture 2 code\2test_mrg32k3a\2test_mrg32k3a\test_mrg32k3a.cpp(584): warning C4244: '=': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\hoore\documents\workspace\gpu\sample code\lecture 2 code\2test_mrg32k3a\2test_mrg32k3a\test_mrg32k3a.cpp(423): warning C4101: 'kmod': unreferenced local variable
+c:\users\hoore\documents\workspace\gpu\sample code\lecture 2 code\2test_mrg32k3a\2test_mrg32k3a\test_mrg32k3a.cpp(727): warning C4244: '=': conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+c:\users\hoore\documents\workspace\gpu\sample code\lecture 2 code\2test_mrg32k3a\2test_mrg32k3a\test_mrg32k3a.cpp(728): warning C4244: '=': conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+c:\users\hoore\documents\workspace\gpu\sample code\lecture 2 code\2test_mrg32k3a\2test_mrg32k3a\test_mrg32k3a.cpp(604): warning C4101: 'lp1': unreferenced local variable
+c:\users\hoore\documents\workspace\gpu\sample code\lecture 2 code\2test_mrg32k3a\2test_mrg32k3a\test_mrg32k3a.cpp(604): warning C4101: 'lp2': unreferenced local variable
+c:\users\hoore\documents\workspace\gpu\sample code\lecture 2 code\2test_mrg32k3a\2test_mrg32k3a\test_mrg32k3a.cpp(604): warning C4101: 'kmod': unreferenced local variable
+c:\users\hoore\documents\workspace\gpu\sample code\lecture 2 code\2test_mrg32k3a\2test_mrg32k3a\test_mrg32k3a.cpp(750): warning C4244: '=': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\hoore\documents\workspace\gpu\sample code\lecture 2 code\2test_mrg32k3a\2test_mrg32k3a\test_mrg32k3a.cpp(759): warning C4244: '=': conversion from '__int64' to 'unsigned int', possible loss of data
+  Generating code
+  All 11 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  2Test_MRG32k3a.vcxproj -> C:\Users\hoore\Documents\workspace\GPU\Sample Code\Lecture 2 Code\2Test_MRG32k3a\x64\Release\2Test_MRG32k3a.exe
